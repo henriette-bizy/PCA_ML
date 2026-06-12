@@ -67,6 +67,6 @@ You'll need Python with NumPy, Matplotlib and pandas (pandas is just for loading
 
 ## Team
 
-- Peer Pair Number: `[number]`
-- `[Member 1 name]`
-- `[Member 2 name]`
+- Peer Pair Number: `23`
+- `Henriette Biziyaremye`
+- `Arnold Mutara`
