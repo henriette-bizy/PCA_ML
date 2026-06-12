@@ -43,7 +43,7 @@ pd.read_csv("file.csv", na_values=["#N/B", "..", "N/A", ""])
 ## Running it
 
 1. Download the CSV from the Kaggle link above.
-2. Open `[your_notebook_name].ipynb` in Google Colab or Jupyter.
+2. Open `PCA_education_in_Africa.ipynb` in Google Colab or Jupyter.
 3. Put the CSV in the same folder as the notebook (or change the path in the loading cell).
 4. Run the cells top to bottom. Every cell shows its output, including the plots.
 
@@ -51,19 +51,8 @@ You'll need Python with NumPy, Matplotlib and pandas (pandas is just for loading
 
 ## What's in the repo
 
-- `[your_notebook_name].ipynb` — the completed notebook
+- `PCA_education_in_Africa.ipynb` — the completed notebook
 - `README.md` — this file
-- `[contribution_sheet].pdf` — the contribution sheet
-- `[combined_submission].pdf` — the notebook and contribution sheet combined into one PDF
-
-## Results
-
-(We'll fill this in once everything is run.)
-
-- Number of components kept: `[N]`
-- Variance retained: `[XX]%`
-- Why we chose this number / the tradeoff: `[explanation]`
-- What information is lost when reducing the dimensions: `[explanation]`
 
 ## Team
 
